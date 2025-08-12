@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @umaima012
-- 👀 I’m interested in photography more than coding
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on any Django project
 - 📫 How to reach me ... umaimaasif110@gmail.com
 - 😄 Pronouns: She/her
 
